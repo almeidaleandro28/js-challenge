@@ -54,5 +54,9 @@ console.log( "challenge 07 - result = ", challange07( "abcdefg" ) );
 // Return the result abcdefgh = abcd
 const challange08 = ( word ) => word.slice( 0, word.length / 2);
 console.log( "challenge 08 - result = ", challange08( "abcdefgh" ) );
+// ================================== ** ======================================================================================
+// Write a function that takes a string (a) as argument
+// Remove the last 3 characters of a
+// Return the result
 
 
